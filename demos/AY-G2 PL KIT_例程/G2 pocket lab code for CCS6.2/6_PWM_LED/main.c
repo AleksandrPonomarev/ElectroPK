@@ -6,7 +6,8 @@
  *  Author: Administrator
  */
 
-#include "MSP430G2553.h"
+//#include "MSP430G2553.h"
+#include "msp430g2553.h"
 #include "TA_PWM.h"
 
 void P1_IODect();
